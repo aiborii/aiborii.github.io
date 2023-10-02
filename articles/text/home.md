@@ -1,11 +1,20 @@
-# <center>ようこそ！</center>
+# <center>Welcome! ようこそ！</center>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vitae mauris non nibh interdum volutpat. Duis in volutpat nisl, ac pretium nibh. Integer vulputate, enim vitae dapibus placerat, nibh ex vehicula ligula, at auctor mi velit ac ex. Nulla nibh libero, malesuada sed lacus vitae, luctus finibus quam. Phasellus ac ornare augue. Nulla imperdiet vitae tellus sit amet malesuada. Sed leo dolor, bibendum ac viverra quis, posuere et nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Hello! This blog serves as a platform for sharing my projects and diary entries, as well as some interesting things I've stumbled upon whilst learning Japanese and programming in general.
 
-Phasellus vitae venenatis nibh. Nulla facilisi. Integer eros nisl, dictum eget tellus eu, egestas vehicula massa. Vestibulum tincidunt quam id turpis faucibus pharetra. Vestibulum urna nisl, aliquam eu arcu vitae, tempus dapibus dui. Aenean ultricies nulla fermentum feugiat venenatis. Ut tincidunt eu purus vel faucibus. Fusce porta dui in scelerisque sagittis. Sed sagittis lacus sit amet pretium accumsan. Nam non nisi sed tortor cursus fermentum. Donec in venenatis eros. Aliquam egestas ligula eget diam consequat facilisis.
+I am
+<a href="/about/" class="flexitems-center">
+    starxeras
+    <iconify-icon icon="tabler:external-link"></iconify-icon>
+</a>
+, a (future) CS major and avid Japanese learner.
 
-Fusce sodales eget dolor quis varius. Nam faucibus elit eu sapien placerat, vel egestas nisi fringilla. Maecenas semper elementum bibendum. Fusce dignissim ipsum eros, sed viverra est ultricies id. In hac habitasse platea dictumst. Nunc at magna at dui mattis varius. Praesent id dolor vel dolor ultrices accumsan varius nec diam. Maecenas placerat dui sit amet arcu placerat varius.
+## What does the name of the site mean?
 
-In lectus neque, cursus vel eleifend non, faucibus a nibh. Pellentesque mollis at velit vel blandit. Aenean vitae lacus pretium, placerat massa nec, ultricies nunc. Vestibulum in nisl aliquet, ullamcorper enim at, feugiat ligula. Sed in elit commodo, ultricies massa eget, sodales orci. Aenean convallis tortor nisl, et facilisis leo finibus vitae. Phasellus mollis erat id arcu suscipit pellentesque. Maecenas dictum aliquam diam vitae euismod. Donec sit amet tortor et odio hendrerit congue ac id sapien. Integer lorem augue, egestas eu libero a, porttitor posuere quam. Mauris gravida arcu dolor, eget imperdiet nunc consequat sit amet. Integer pulvinar pharetra felis vel rutrum. Cras fermentum vel sapien ut elementum. Vivamus tempus, lorem a consequat ultrices, sem magna dapibus massa, sodales dapibus lectus urna non nibh.
 
-Maecenas nisl tellus, mattis at fermentum in, ultrices in nisi. Ut convallis magna felis. Fusce in justo erat. Curabitur justo ex, pulvinar id accumsan nec, pellentesque ac sapien. Duis auctor pretium mattis. Proin dapibus euismod placerat. Sed non mauris ut neque consequat placerat. Aliquam mollis eu neque non aliquam. Pellentesque nec tempus nisl. Pellentesque laoreet elit porta placerat gravida. Maecenas blandit lacus vitae orci imperdiet euismod. Suspendisse potenti. Curabitur non semper velit. Suspendisse pretium erat tellus, quis malesuada magna semper eget. Sed vitae ante ex. 
+> <a href="https://en.wikipedia.org/wiki/Ivory_(color)" class="flexitems-center">
+    Ivory
+    <iconify-icon icon="tabler:external-link"></iconify-icon>
+</a> is an off-white color named after, and derived from, the material made from the tusks and teeth of certain animals, such as the elephant and the walrus. It has a very slight tint of yellow.
+>
+> The color is often associated with purity and elegance. In Western culture, it is also associated with weddings and other formal occasions. In Eastern cultures, ivory has been used for centuries in the creation of decorative objects and religious artifacts, such as Buddha statues and other sculptures. The cultural acceptance of the use of ivory as a material has declined over time, with the practice being outlawed in much of the worl

@@ -17,4 +17,4 @@ I am
     <iconify-icon icon="tabler:external-link"></iconify-icon>
 </a> is an off-white color named after, and derived from, the material made from the tusks and teeth of certain animals, such as the elephant and the walrus. It has a very slight tint of yellow.
 >
-> The color is often associated with purity and elegance. In Western culture, it is also associated with weddings and other formal occasions. In Eastern cultures, ivory has been used for centuries in the creation of decorative objects and religious artifacts, such as Buddha statues and other sculptures. The cultural acceptance of the use of ivory as a material has declined over time, with the practice being outlawed in much of the worl
+> The color is often associated with purity and elegance. In Western culture, it is also associated with weddings and other formal occasions. In Eastern cultures, ivory has been used for centuries in the creation of decorative objects and religious artifacts, such as Buddha statues and other sculptures. The cultural acceptance of the use of ivory as a material has declined over time, with the practice being outlawed in much of the world.

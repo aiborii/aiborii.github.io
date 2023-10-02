@@ -22,6 +22,20 @@
   <meta property="og:url" content="https://aiborii.github.io/">
   <meta property="og:image" content="">
 
+<!--  header and footer-->
+  <script
+          src="https://code.jquery.com/jquery-3.3.1.js"
+          integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+          crossorigin="anonymous">
+  </script>
+  <script>
+      $(function(){
+          $("#header").load("../header.html");
+          $("#footer").load("../footer.html");
+          $("#body").load("../body.html");
+      });
+  </script>
+
   <link rel="manifest" href="../site.webmanifest">
   <link rel="apple-touch-icon" href="../img/icon.png">
 
@@ -41,47 +55,12 @@
   <link rel="stylesheet" href="../css/style.css">
   <link rel="stylesheet" href="../css/normalize.css">
 </head>
-<body class="bg-gray-100 m-auto">
-<header class="p-5">
-  <h1 class="text-4xl font-bold text-center pb-5">
-    アイボリー
-  </h1>
-
-  <nav class="flex flex-row gap-4 flex-wrap justify-center">
-    <a class="flex flex-row gap-1 items-center py-3 px-4 bg-blue-200
-          rounded-lg shadow-md hover:shadow-lg hover:bg-blue-300 hover:transition-all duration-200
-          focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75"
-       href="">
-      <iconify-icon class="text-only text-2xl" icon="ic:sharp-home"></iconify-icon>
-      <p class="text-md icon-only ">Home</p>
-    </a>
-    <a class="flex flex-row gap-1 items-center py-3 px-4 bg-blue-200
-          rounded-lg shadow-md hover:shadow-lg hover:bg-blue-300 hover:transition-all duration-200
-          focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75"
-       href="">
-      <iconify-icon class="text-only text-2xl" icon="ph:book-fill"></iconify-icon>
-      <p class="icon-only text-md">TOC</p>
-    </a>
-    <a class="flex flex-row gap-1 items-center py-3 px-4 bg-blue-200
-          rounded-lg shadow-md hover:shadow-lg hover:bg-blue-300 hover:transition-all duration-200
-          focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75"
-       href="">
-      <iconify-icon class="text-only text-2xl" icon="ph:question-fill"></iconify-icon>
-      <p class="text-md icon-only">About</p>
-    </a>
-    <a class="flex flex-row gap-1 items-center py-3 px-4 bg-blue-200
-          rounded-lg shadow-md hover:shadow-lg hover:bg-blue-300 hover:transition-all duration-200
-          focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75"
-       href="https://discord.gg/vxxAxtrAvw" target="_blank">
-      <iconify-icon class="text-only text-2xl" icon="ic:baseline-discord"></iconify-icon>
-      <p class="text-md icon-only">Discord</p>
-    </a>
-  </nav>
-</header>
-<main class="p-2">
-  <div class="max-w-3xl m-auto p-4 shadow-lg border rounded-lg bg-white">
-    <zero-md src="toc.md"></zero-md>
-  </div>
-</main>
+<body id="body">
+  <div id="header"></div>
+  <main class="p-2">
+    <div class="max-w-3xl m-auto p-4 shadow-lg border rounded-lg bg-white">
+      <zero-md src="toc.md"></zero-md>
+    </div>
+  </main>
 </body>
 </html>

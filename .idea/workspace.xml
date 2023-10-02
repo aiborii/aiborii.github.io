@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14f39007-88c1-4596-9613-930bf603ab57" name="Changes" comment="updated links">
+    <list default="true" id="14f39007-88c1-4596-9613-930bf603ab57" name="Changes" comment="favicon">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/toc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/toc/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +77,7 @@
       <workItem from="1696209801218" duration="2739000" />
       <workItem from="1696214142295" duration="203000" />
       <workItem from="1696215282784" duration="3102000" />
-      <workItem from="1696218430883" duration="2837000" />
+      <workItem from="1696218430883" duration="2968000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <option name="closed" value="true" />
@@ -232,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696221078419</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="favicon">
+      <option name="closed" value="true" />
+      <created>1696221312564</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1696221312564</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,6 +255,7 @@
     <MESSAGE value="body and header?" />
     <MESSAGE value="deleted `body.html`" />
     <MESSAGE value="updated links" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated links" />
+    <MESSAGE value="favicon" />
+    <option name="LAST_COMMIT_MESSAGE" value="favicon" />
   </component>
 </project>

@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14f39007-88c1-4596-9613-930bf603ab57" name="Changes" comment="test">
-      <change beforePath="$PROJECT_DIR$/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/header.html" afterDir="false" />
+    <list default="true" id="14f39007-88c1-4596-9613-930bf603ab57" name="Changes" comment="update `header.html`">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/toc/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +78,7 @@
       <workItem from="1696209801218" duration="2739000" />
       <workItem from="1696214142295" duration="203000" />
       <workItem from="1696215282784" duration="3102000" />
-      <workItem from="1696218430883" duration="3062000" />
+      <workItem from="1696218430883" duration="3320000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <option name="closed" value="true" />
@@ -246,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696221439389</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="update `header.html`">
+      <option name="closed" value="true" />
+      <created>1696221536651</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1696221536651</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,6 +274,7 @@
     <MESSAGE value="updated links" />
     <MESSAGE value="favicon" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="update `header.html`" />
+    <option name="LAST_COMMIT_MESSAGE" value="update `header.html`" />
   </component>
 </project>

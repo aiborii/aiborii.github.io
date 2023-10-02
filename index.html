@@ -1,10 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Title</title>
+  <meta charset="utf-8">
+  <title>Aiborii</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:title" content="Aiborii">
+  <meta property="og:type" content="Blog">
+  <meta property="og:url" content="https://aiborii.github.io/">
+  <meta property="og:image" content="">
+
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+
+  <meta name="theme-color" content="#fafafa">
+
+
+<!--  tailwindcss -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.2/tailwind.min.css" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+<!--  iconify -->
+  <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/normalize.css">
 </head>
-<body>
-  Hello!
+<body class="p-5">
+  <button class="bg-blue-400 p-3 rounded-xl shadow-md hover:shadow-xl hover:transition-all hover:animate-pulse">
+    <div class="flex no-wrap items-center gap-1">
+      <iconify-icon class="text-4xl" icon="ic:baseline-home"></iconify-icon>
+      <a class="font-bold test" href="https://aiborii.github.io/">Home</a>
+    </div>
+  </button>
+<!--  Analytics (idk how this works lol)-->
+  <script>
+    window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
+    ga('create', 'UA-XXXXX-Y', 'auto'); ga('set', 'anonymizeIp', true); ga('set', 'transport', 'beacon'); ga('send', 'pageview')
+  </script>
+  <script src="https://www.google-analytics.com/analytics.js" async></script>
 </body>
 </html>

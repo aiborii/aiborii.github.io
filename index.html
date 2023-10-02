@@ -23,7 +23,7 @@
   <meta property="og:image" content="">
 
   <link rel="manifest" href="site.webmanifest">
-  <link rel="apple-touch-icon" href="icon.png">
+  <link rel="apple-touch-icon" href="img/icon.png">
 
   <meta name="theme-color" content="#fafafa">
 
@@ -36,12 +36,42 @@
   <link rel="stylesheet" href="/css/style.css">
   <link rel="stylesheet" href="/css/normalize.css">
 </head>
-<body class="p-5">
-  <button class="bg-blue-400 p-3 rounded-xl shadow-md hover:shadow-xl hover:transition-all hover:animate-pulse">
-    <div class="flex no-wrap items-center gap-1">
-      <iconify-icon class="text-4xl" icon="ic:baseline-home"></iconify-icon>
-      <a class="font-bold test" href="https://aiborii.github.io/">Home</a>
-    </div>
-  </button>
+<body class="max-w-3xl m-auto">
+  <header class="p-5">
+    <h1 class="text-3xl font-bold text-center pb-5">
+      アイボリー
+    </h1>
+
+    <nav class="flex flex-row gap-4 flex-wrap justify-center">
+      <a class="flex flex-row gap-1 items-center py-3 px-4 bg-blue-200
+          rounded-lg shadow-md hover:shadow-lg hover:bg-blue-300 hover:transition-all duration-200
+          focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75"
+            href="">
+        <iconify-icon class="text-only text-2xl" icon="ic:sharp-home"></iconify-icon>
+        <p class="text-md icon-only ">Home</p>
+      </a>
+      <a class="flex flex-row gap-1 items-center py-3 px-4 bg-blue-200
+          rounded-lg shadow-md hover:shadow-lg hover:bg-blue-300 hover:transition-all duration-200
+          focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75"
+         href="">
+        <iconify-icon class="text-only text-2xl" icon="ph:book-fill"></iconify-icon>
+        <p class="icon-only text-md">TOC</p>
+      </a>
+      <a class="flex flex-row gap-1 items-center py-3 px-4 bg-blue-200
+          rounded-lg shadow-md hover:shadow-lg hover:bg-blue-300 hover:transition-all duration-200
+          focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75"
+         href="">
+        <iconify-icon class="text-only text-2xl" icon="ph:question-fill"></iconify-icon>
+        <p class="text-md icon-only">About</p>
+      </a>
+      <a class="flex flex-row gap-1 items-center py-3 px-4 bg-blue-200
+          rounded-lg shadow-md hover:shadow-lg hover:bg-blue-300 hover:transition-all duration-200
+          focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75"
+         href="">
+        <iconify-icon class="text-only text-2xl" icon="ic:baseline-discord"></iconify-icon>
+        <p class="text-md icon-only">Discord</p>
+      </a>
+    </nav>
+  </header>
 </body>
 </html>

@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14f39007-88c1-4596-9613-930bf603ab57" name="Changes" comment="body and header?">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/toc/index.html" afterDir="false" />
+    <list default="true" id="14f39007-88c1-4596-9613-930bf603ab57" name="Changes" comment="deleted `body.html`">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/header.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +77,7 @@
       <workItem from="1696209801218" duration="2739000" />
       <workItem from="1696214142295" duration="203000" />
       <workItem from="1696215282784" duration="3102000" />
-      <workItem from="1696218430883" duration="2443000" />
+      <workItem from="1696218430883" duration="2606000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <option name="closed" value="true" />
@@ -215,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696220811258</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="deleted `body.html`">
+      <option name="closed" value="true" />
+      <created>1696220926132</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1696220926132</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +237,7 @@
     <MESSAGE value="zero md maybe???" />
     <MESSAGE value="toc" />
     <MESSAGE value="body and header?" />
-    <option name="LAST_COMMIT_MESSAGE" value="body and header?" />
+    <MESSAGE value="deleted `body.html`" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted `body.html`" />
   </component>
 </project>

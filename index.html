@@ -34,12 +34,17 @@
   <script src="https://cdn.tailwindcss.com"></script>
 <!--  iconify -->
   <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+<!--webcomponent loader-->
+  <script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2/webcomponents-loader.min.js"></script>
+<!--  zeromd-->
+  <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script>
+<!--links-->
   <link rel="stylesheet" href="/css/style.css">
   <link rel="stylesheet" href="/css/normalize.css">
 </head>
-<body class="max-w-3xl m-auto">
+<body class="bg-gray-100 m-auto">
   <header class="p-5">
-    <h1 class="text-3xl font-bold text-center pb-5">
+    <h1 class="text-4xl font-bold text-center pb-5">
       アイボリー
     </h1>
 
@@ -68,11 +73,16 @@
       <a class="flex flex-row gap-1 items-center py-3 px-4 bg-blue-200
           rounded-lg shadow-md hover:shadow-lg hover:bg-blue-300 hover:transition-all duration-200
           focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75"
-         href="">
+         href="https://discord.gg/vxxAxtrAvw" target="_blank">
         <iconify-icon class="text-only text-2xl" icon="ic:baseline-discord"></iconify-icon>
         <p class="text-md icon-only">Discord</p>
       </a>
     </nav>
   </header>
+  <main class="p-2">
+    <div class="max-w-3xl m-auto p-4 shadow-lg border rounded-lg bg-white">
+      <zero-md src="toc/home.md"></zero-md>
+    </div>
+  </main>
 </body>
 </html>

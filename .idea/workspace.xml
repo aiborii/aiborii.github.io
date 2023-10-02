@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14f39007-88c1-4596-9613-930bf603ab57" name="Changes" comment="Update `footer.html`">
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+    <list default="true" id="14f39007-88c1-4596-9613-930bf603ab57" name="Changes" comment="Added `LICENSE`">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +77,7 @@
       <workItem from="1696209801218" duration="2739000" />
       <workItem from="1696214142295" duration="203000" />
       <workItem from="1696215282784" duration="3102000" />
-      <workItem from="1696218430883" duration="5051000" />
+      <workItem from="1696218430883" duration="5099000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <option name="closed" value="true" />
@@ -295,7 +295,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696223513923</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Added `LICENSE`">
+      <option name="closed" value="true" />
+      <created>1696223562751</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1696223562751</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,6 +326,7 @@
     <MESSAGE value="AAAAAAAAAAAAA" />
     <MESSAGE value="Added `footer.html`" />
     <MESSAGE value="Update `footer.html`" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update `footer.html`" />
+    <MESSAGE value="Added `LICENSE`" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added `LICENSE`" />
   </component>
 </project>

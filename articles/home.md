@@ -1,9 +1,5 @@
 # <center>ようこそ！</center>
 
-hello<span class="footnote"><a href="#fn-1" id="fnref-1">[1]</a></span>
-
-
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vitae mauris non nibh interdum volutpat. Duis in volutpat nisl, ac pretium nibh. Integer vulputate, enim vitae dapibus placerat, nibh ex vehicula ligula, at auctor mi velit ac ex. Nulla nibh libero, malesuada sed lacus vitae, luctus finibus quam. Phasellus ac ornare augue. Nulla imperdiet vitae tellus sit amet malesuada. Sed leo dolor, bibendum ac viverra quis, posuere et nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 Phasellus vitae venenatis nibh. Nulla facilisi. Integer eros nisl, dictum eget tellus eu, egestas vehicula massa. Vestibulum tincidunt quam id turpis faucibus pharetra. Vestibulum urna nisl, aliquam eu arcu vitae, tempus dapibus dui. Aenean ultricies nulla fermentum feugiat venenatis. Ut tincidunt eu purus vel faucibus. Fusce porta dui in scelerisque sagittis. Sed sagittis lacus sit amet pretium accumsan. Nam non nisi sed tortor cursus fermentum. Donec in venenatis eros. Aliquam egestas ligula eget diam consequat facilisis.
